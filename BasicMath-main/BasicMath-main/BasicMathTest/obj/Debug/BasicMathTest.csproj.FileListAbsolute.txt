@@ -1,0 +1,10 @@
+C:\Users\vietn\Downloads\BasicMath-main\BasicMath-main\BasicMathTest\bin\Debug\BasicMathTest.dll
+C:\Users\vietn\Downloads\BasicMath-main\BasicMath-main\BasicMathTest\bin\Debug\BasicMathTest.pdb
+C:\Users\vietn\Downloads\BasicMath-main\BasicMath-main\BasicMathTest\bin\Debug\BasicMath.exe
+C:\Users\vietn\Downloads\BasicMath-main\BasicMath-main\BasicMathTest\bin\Debug\BasicMath.pdb
+C:\Users\vietn\Downloads\BasicMath-main\BasicMath-main\BasicMathTest\bin\Debug\BasicMath.exe.config
+C:\Users\vietn\Downloads\BasicMath-main\BasicMath-main\BasicMathTest\obj\Debug\BasicMathTest.csproj.AssemblyReference.cache
+C:\Users\vietn\Downloads\BasicMath-main\BasicMath-main\BasicMathTest\obj\Debug\BasicMathTest.csproj.CoreCompileInputs.cache
+C:\Users\vietn\Downloads\BasicMath-main\BasicMath-main\BasicMathTest\obj\Debug\BasicMathTest.csproj.CopyComplete
+C:\Users\vietn\Downloads\BasicMath-main\BasicMath-main\BasicMathTest\obj\Debug\BasicMathTest.dll
+C:\Users\vietn\Downloads\BasicMath-main\BasicMath-main\BasicMathTest\obj\Debug\BasicMathTest.pdb
